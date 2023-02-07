@@ -1,2 +1,2 @@
 # Skillfactory
-Работы и решения по курсу QAP Skillfactoty
+Работы и решения по курсу QAP Skillfactory
